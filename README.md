@@ -1,2 +1,2 @@
-# site_evento_baratas
+# site_eventos
 Este é um repositório voltado para o evento sobre finanças públicas
